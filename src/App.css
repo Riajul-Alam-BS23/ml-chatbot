@@ -1,0 +1,9 @@
+.chatPage-div{
+  width: 370px;
+  height: 600px;
+  color: black;
+  position: relative;
+  position: fixed;
+  bottom: 60px;
+  right: 60px;
+}
